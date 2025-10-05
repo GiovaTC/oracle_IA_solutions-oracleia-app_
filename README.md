@@ -2,6 +2,8 @@
 
 <img width="2550" height="1079" alt="image" src="https://github.com/user-attachments/assets/d50f3cea-e6d7-49f9-8e93-fa4b57ceba08" />  
 
+<img width="2555" height="1079" alt="image" src="https://github.com/user-attachments/assets/d04ea164-83d3-4640-8409-7f07165ad410" />
+
 Aplicación Java (Maven) con interfaz Swing que conecta a Oracle 19c y permite manipular 6 tablas:
 EMPRESA, EMPLEADO, PROYECTO, CLIENTE, FACTURA y TECNOLOGIA.
 
