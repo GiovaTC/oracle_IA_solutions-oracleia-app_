@@ -1,5 +1,7 @@
 # Oracle IA Solutions - oracleia-app
 
+<img width="2550" height="1079" alt="image" src="https://github.com/user-attachments/assets/d50f3cea-e6d7-49f9-8e93-fa4b57ceba08" />  
+
 Aplicación Java (Maven) con interfaz Swing que conecta a Oracle 19c y permite manipular 6 tablas:
 EMPRESA, EMPLEADO, PROYECTO, CLIENTE, FACTURA y TECNOLOGIA.
 
